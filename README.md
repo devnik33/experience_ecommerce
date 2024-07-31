@@ -14,8 +14,6 @@ MONGODB_URL<br />
   * Express
 * [MongoDB](https://mongodb.com)
   * Database management
-* [Jest](https://jestjs.io)
-  * Node testing with jest
 
 <!-- GETTING STARTED -->
 ## Getting Started
